@@ -1,5 +1,5 @@
-**Name:** Alexander Georgiev **PID:**: alexandersg
+**Name:** Alexander Georgiev **PID:** alexandersg
 
-**Name:** Daniel Lanigan **PID:**:
+**Name:** Daniel Lanigan **PID:**
 
-**Name:**  **PID:**:
+**Name:**  **PID:**
