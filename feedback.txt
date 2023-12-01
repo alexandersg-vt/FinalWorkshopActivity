@@ -1,0 +1,14 @@
+Basic Functionality with Room for Improvement: Your C program effectively collects and displays stand-up notes but lacks input validation and error handling, which are crucial for robustness and user experience.
+
+Input Handling and User Interface: The program includes newline characters in outputs and lacks user guidance, necessitating improvements in input processing and user interface clarity.
+
+Future-Proofing and Documentation: While the program is simple and portable, considering its integration into larger systems and adding comprehensive comments would enhance its scalability and maintainability.
+
+No method for changing: There is no method to edit or modify already scheduled meetings in case of rescheduling. 
+
+No future tasks: There is no method of pinpointing the tasks highlighted in the meeting that the software engineers will use to prioritize their tasks for the day and the future. 
+
+NAMES:
+Prahaara (prahaara08)
+Achintya Garg (achintya)
+Akshath Majumder (akshath)
