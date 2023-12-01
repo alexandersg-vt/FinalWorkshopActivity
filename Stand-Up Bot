@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() {
+    char yesterday[500], today[500], blockers[500];
+
+    // Ask about yesterday
+    printf("What did you do yesterday?\n");
+    fgets(yesterday, sizeof(yesterday), stdin);
+
+    // Ask about today
+    printf("What will you do today?\n");
+    fgets(today, sizeof(today), stdin);
+
+    // Ask about blockers
+    printf("Are there any blockers?\n");
+    fgets(blockers, sizeof(blockers), stdin);
+
+    // Display the summary
+    printf("\nStand-Up Summary:\n");
+    printf("Yesterday: %s\n", yesterday);
+    printf("Today: %s\n", today);
+    printf("Blockers: %s\n", blockers);
+
+    return 0;
+}
